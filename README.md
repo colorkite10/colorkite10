@@ -1,9 +1,21 @@
-### Hi there 👋
+## 안녕하세요, 이채연입니다.
+<div align="left">
+  <br>
+  <li> 홍익대학교 불어불문학과, 컴퓨터 공학과 복수전공 <sub>(2017.03-2023.08)</sub></li>
+  <li> 프론트엔드 개발자 지망생입니다. </li>
+  <a href = "https://velog.io/@colorkite10">저의 블로그</a>에서 공부한 기록을 보실 수 있습니다.
+</div>
+
+<div align="center">
+  <img  src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+  <img  src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img  src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</div>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=colorkite10&show_icons=true&theme=vue)
-
-<img src="https://img.shields.io/badge/javascript-#F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 <!--
 **colorkite10/colorkite10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
