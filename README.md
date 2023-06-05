@@ -7,6 +7,7 @@
 </div>
 </br>
 </br>
+
 ## 기술 스택
 <div align="center">
   <img  src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=C%2B%2B&logoColor=white"/>
@@ -16,6 +17,7 @@
 </div>
 </br>
 </br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=colorkite10&show_icons=true&theme=vue)
 
 <!--
