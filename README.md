@@ -18,7 +18,10 @@
 </br>
 </br>
 
+## 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=colorkite10&show_icons=true&theme=vue)
+</br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colorkite10&layout=compact">
 
 <!--
 **colorkite10/colorkite10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
