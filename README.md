@@ -2,7 +2,7 @@
 <div align="left">
   <br>
   <li> 홍익대학교 불어불문학과, 컴퓨터 공학과 복수전공 <sub>(2017.03-2023.08)</sub></li>
-  <li> 프론트엔드 개발자 지망생입니다. </li>
+  <li> 프론트엔드 개발자입니다. </li>
   <li><a href = "https://velog.io/@colorkite10">저의 블로그</a>에서 공부한 기록을 보실 수 있습니다.</li>
 </div>
 </br>
